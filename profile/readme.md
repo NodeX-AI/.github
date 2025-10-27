@@ -1,5 +1,5 @@
-<a href="#welcome-to-the-official-nodex.ai-project-page-">🇬🇧 English</a> \
-<a href="#добро-пожаловать-на-официальную-страницу-проекта-nodex.ai-">🇷🇺 Russian</a>
+<a href="#welcome-to-the-official-nodexai-project-page-">🇬🇧 English</a> \
+<a href="#добро-пожаловать-на-официальную-страницу-проекта-nodexai-">🇷🇺 Russian</a>
 
 # Welcome to the official NodeX.ai project page 👋
 ## About us

@@ -1,24 +1,65 @@
-<a href="#welcome-to-the-official-nodexai-project-page-">🇬🇧 English</a> \
-<a href="#добро-пожаловать-на-официальную-страницу-проекта-nodexai-">🇷🇺 Russian</a>
+# NodeX-AI
+Организация, основанная для разработки открытых проектов в области искусственного интеллекта.
 
-# Welcome to the official NodeX.ai project page 👋
-## About us
-We're developing an open-source AI-powered Telegram bot for the community. Our goal is to create a powerful yet easy-to-use chatbot with integrated AI.
+## Проекты
 
-## Navigation
-| Project | Description | Development status |
-|--------|----------|-------------------|
-| [NodeX.ai](https://github.com/NodeX-AI/NodeX.ai) | Telegram bot with artificial intelligence | 🔸 In development... |
-| [NodeX-docs](https://github.com/NodeX-AI/docs) | Project documentation | 🔸 In development... |
+### NodeX.ai
+Основной проект — Telegram-бот с открытым исходным кодом, предоставляющий доступ к множеству языковых моделей через единый интерфейс.
+
+**Ключевые характеристики:**
+- Мультимодельная архитектура
+- Шифрование AES-256-GCM
+- Полная техническая документация
+
+## Техническая политика
+
+### Безопасность
+Все проекты организации реализуют принципы security-by-design:
+- Шифрование конфиденциальных данных
+- Минимализация собираемой информации
+- Прозрачность обработки данных
+
+### Открытость
+- Исходный код доступен для аудита
+- Использование открытых лицензий
+- Публичная техническая документация
+
+## Контакты
+
+- **Организация на GitHub:** [NodeX-AI](https://github.com/NodeX-AI)
+- **Основной репозиторий:** [NodeX.ai](https://github.com/NodeX-AI/NodeX.ai)
+- **Документация:** [docs](https://github.com/NodeX-AI/docs)
 
 ----
 
-# Добро пожаловать на официальную страницу проекта NodeX.ai 👋
-## О нас
-Мы разрабатываем Telegram-бот с открытым исходным кодом на базе искусственного интеллекта для сообщества. Наша цель — создать мощный, но простой в использовании чат-бот со встроенным искусственным интеллектом.
+# NodeX-AI
+An organization founded to develop open-source projects in the field of artificial intelligence.
 
-## Навигация
-| Проект | Описание | Статус разработки |
-|--------|----------|-------------------|
-| [NodeX.ai](https://github.com/NodeX-AI/NodeX.ai) | Telegram-бот с искусственным интеллектом | 🔸 В разработке... |
-| [NodeX-docs](https://github.com/NodeX-AI/docs) | Документация проекта | 🔸 В разработке... |
+## Projects
+
+### NodeX.ai
+The main project is an open-source Telegram bot that provides access to multiple language models through a single interface.
+
+**Key Features:**
+- Multi-model architecture
+- AES-256-GCM encryption
+- Comprehensive technical documentation
+
+## Technical Policy
+
+### Security
+All of the organization's projects implement security-by-design principles:
+- Encryption of sensitive data
+- Minimization of collected information
+- Transparency of data processing
+
+### Openness
+- Auditable source code
+- Use of open source licenses
+- Public technical documentation
+
+## Contacts
+
+- **Organization on GitHub:** [NodeX-AI](https://github.com/NodeX-AI)
+- **Main repository:** [NodeX.ai](https://github.com/NodeX-AI/NodeX.ai)
+- **Documentation:** [docs](https://github.com/NodeX-AI/docs)

@@ -26,7 +26,6 @@
 
 ## Контакты
 
-- **Организация на GitHub:** [NodeX-AI](https://github.com/NodeX-AI)
 - **Основной репозиторий:** [NodeX.ai](https://github.com/NodeX-AI/NodeX.ai)
 - **Документация:** [docs](https://github.com/NodeX-AI/docs)
 
@@ -60,6 +59,5 @@ All of the organization's projects implement security-by-design principles:
 
 ## Contacts
 
-- **Organization on GitHub:** [NodeX-AI](https://github.com/NodeX-AI)
 - **Main repository:** [NodeX.ai](https://github.com/NodeX-AI/NodeX.ai)
 - **Documentation:** [docs](https://github.com/NodeX-AI/docs)
